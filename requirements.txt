@@ -1,0 +1,6 @@
+streamlit
+pandas
+qrcode
+Pillow
+openpyxl
+python-dateutil
